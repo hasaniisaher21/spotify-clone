@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone
+# 🎵 MelodyWave
 
 A clean and responsive Spotify clone built using **HTML**, **CSS**, and **JavaScript**. This project replicates the basic UI and functionality of Spotify’s web player, including playback controls and playlist display.
 
